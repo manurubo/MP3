@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1511872517 source:c:\users\hp pc\desktop\mp1\prac3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1511872517 source:c:\mp1\prac3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1511893349 source:c:\users\oscar\desktop\prac3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1512036968 source:c:\mp3\prac3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1512233408 source:c:\users\manuel\desktop\mp3-master\mp3\prac3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stdbool.h>
+
